@@ -103,6 +103,7 @@ To use a FreeSWITCH need install `SWIG`. In system Debian base run
 ```
  apt-get install swig
  pip install -r requirements/fs.txt
+ bash 
 ```
 
 
